@@ -1,5 +1,5 @@
 {
-  "name": "rccrafter",
+  "name": "basketball",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,6 +14,7 @@
     "react-scripts": "1.0.17"
   },
   "scripts": {
+    "postinstall": "cd app && npm install",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
