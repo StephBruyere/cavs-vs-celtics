@@ -1,0 +1,50 @@
+[
+  {
+    "id" : 1,
+    "TeamName": "Cavaliers",
+    "City": "Cleveland, Ohio",
+    "Record2017": "34W - 22L",
+    "Championships": "2016",
+    "HeadCoach": "Tyronn Lue",
+    "Arena": "Quicken Loans Arena",
+    "Owner": "Dan Gilbert",
+    "Mascots": "Whammer, Sir C.C., Moondog",
+    "Roster": {
+      "Name1": "Lebron James",
+      "Image1": "assets/images/james.png",
+      "Name2": "Kevin Love",
+      "Image2": "assets/images/love.png",
+      "Name3": "Tristan Thompson",
+      "Image3": "assets/images/tristan.png",
+      "Name4": "J.R. Smith",
+      "Image4": "assets/images/smith.png",
+      "Name5": "Larry Nance, Jr.",
+      "Image5": "assets/images/lance.png",
+      "Name6": "Jordan Clarkson",
+      "Image6": "assets/images/jordan.png"
+    },
+    "PreviousGame": {
+      "Opponent": "Pistons",
+      "Date": "3/5/2018",
+      "Score": "112-90 W"
+    },
+    "NextGame": {
+      "Opponent": "Nuggets",
+      "Date": "3/7/2018 10:30pm"
+    },
+    "News": [
+      {
+        "Title": "NBA playoffs 2018 update: What's going on with the Cleveland Cavaliers' top threats",
+        "Article": "CLEVELAND, Ohio- The new-look Cleveland Cavaliers caused excitement and buzz around the league before the All-Star break. But the team has challenges ahead of them if it wants to win the franchise's second NBA title in June. Here's a look at 10 teams could stand in the Cavs way of winning a second title, and where they stand as the NBA returns to action this week:"
+      },
+      {
+        "Title": "Cavaliers Rumors: If LeBron James Returns, Cavs Could Spend Record $308 Million",
+        "Article": "The Cleveland Cavaliers could be footing a $300 million payroll next season, which would include over $150 million in salary-tax payments, if LeBron James re-signs with the team or exercises his $35.6 million player option for the 2018-19 season, according to Brian Windhorst of ESPN.com. \n Per that report, the deals that netted the Cavaliers George Hill, Rodney Hood, Jordan Clarkson and Larry Nance Jr. before the trade deadline added about $10 million in salary and luxury tax to their books this season. That will boost their tax payment to about $50 million and their overall payroll to nearly $190 million, the second highest in league history after the Nets' $193 million in 2013-14."
+      },
+      {
+        "Title": "The Cavaliers' payroll could be the most expensive ever",
+        "Article": "The Cleveland Cavaliers may have a $300 million roster next season if LeBron James remains with the franchise. \n When the dust settled following their sweeping trades last week, the Cavs put themselves in position to break records if they elect to keep their new core together. And, most importantly, if James elects to re-sign in Cleveland or simply pick up his $35.6 million player option for 2018-19. \n Team owner Dan Gilbert has never put his front office on a budget, and so the team continues to spend. \n For several uncomfortable months -- and a couple of unbearable weeks -- James was sending a message to the Cavs' front office that he wanted the team's roster upgraded. \n The team did some hedging on the future with or without James, starting with the Kyrie Irving trade last summer. In the first rounds of trade talks approaching last week's deadline, the Cavs took a position in some discussions that they didn't want to add future salary, multiple league executives said."
+      }
+    ]
+  }
+]

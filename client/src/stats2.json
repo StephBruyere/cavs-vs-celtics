@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2,
+    "TeamName": "Celtics",
+    "City": "Boston, MA",
+    "Record2017": "53W - 29L",
+    "Championships": "17 Championships",
+    "HeadCoach": "Brad Stevens",
+    "Arena": "TD Garden",
+    "Owner": "Boston Basketball Partners L.L.C.",
+    "Mascots": "Lucky the Leprechaun",
+    "Roster": {
+      "Name1": "Kyrie Irving",
+      "Image1": "assets/images/kyrie.png",
+      "Name2": "Kaylen Brown",
+      "Image2": "assets/images/kaylen.png",
+      "Name3": "Jayson Tatumn",
+      "Image3": "assets/images/jayson.png",
+      "Name4": "Al Horford",
+      "Image4": "assets/images/hartford.png",
+      "Name5": "Greg Monr.",
+      "Image5": "assets/images/greg.png",
+      "Name6": "Gordon Hayward",
+      "Image6": "assets/images/gordan.png"
+    },
+    "PreviousGame": {
+      "Opponent": "Bulls",
+      "Date": "3/5/2018",
+      "Score": "105-89 W"
+    },
+    "NextGame": {
+      "Opponent": "Timberwolves",
+      "Date": "3/7/2018 8pm"
+    },
+    "News": [
+      {
+        "Title": "Boston Celtics Cap Sheet Post Trade Deadline/Buyout Season",
+        "Article": "The trade deadline has come and gone, with nary a peep from the Boston Celtics. Buyout season was a little more momentous, as the team filled the open roster spot they carried for most of the year with Greg Monroe. With the Playoff Eligibility Waiver deadline now behind us, the Celtics cap sheet for the upcoming summer has come into focus."
+      },
+      {
+        "Title": "NBA fines Celtics' Smart $15K for criticizing officiating",
+        "Article": "The NBA announced on Tuesday that it has fined Boston Celtics guard Marcus Smart a total of $15,000 for his comments criticizing officiating after Saturday's loss to the Houston Rockets. \n Smart, who missed a game-tying 3-pointer at the buzzer of the 123-120 loss in Houston, suggested that the league gives favorable calls to Rockets star and MVP candidate James Harden."
+      },
+      {
+        "Title": "Why Celtics' Kyrie Irving Is Taking 'Big Picture' Approach To Knee Injury",
+        "Article": "Kyrie Irving missed Monday night's game against the Chicago Bulls with left knee soreness, and Boston Celtics head coach Brad Stevens told reporters the point guard could be sidelined through the week. The injury isn't considered a serious issue, by any means. But the organization is being very careful with its franchise player, something with which Irving sounds completely on-board given he underwent surgery on the same knee after fracturing his kneecap while playing for the Cleveland Cavaliers in the 2015 NBA Finals against the Golden State Warriors"
+      }
+    ]
+  }
+]
